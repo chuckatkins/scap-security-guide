@@ -32,8 +32,8 @@
 <xsl:variable name="cis-cscuri">https://www.cisecurity.org/wp-content/uploads/2017/03/Poster_Winter2016_CSCs.pdf</xsl:variable>
 <xsl:variable name="osppuri">https://www.niap-ccevs.org/Profile/PP.cfm</xsl:variable>
 <xsl:variable name="pcidssuri">https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf</xsl:variable>
-<xsl:variable name="ssg-benchmark-latest-uri">https://github.com/OpenSCAP/scap-security-guide/releases/latest</xsl:variable>
-<xsl:variable name="ssg-contributors-uri">https://github.com/OpenSCAP/scap-security-guide/wiki/Contributors</xsl:variable>
+<xsl:variable name="ssg-benchmark-latest-uri">https://github.com/ComplianceAsCode/content/releases/latest</xsl:variable>
+<xsl:variable name="ssg-contributors-uri">https://github.com/ComplianceAsCode/content/wiki/Contributors</xsl:variable>
 <xsl:variable name="ssg-project-name">SCAP Security Guide Project</xsl:variable>
 
 <!-- misc language URI's -->
